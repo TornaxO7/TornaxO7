@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi!
+I'm TornaxO7, a 18 years old fresh computer science student.
 
-<!--
-**TornaxO7/TornaxO7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my language ranking:
 
-Here are some ideas to get you started:
+1. Rust
+2. C and Assembly (only for a [MSP430](https://en.wikipedia.org/wiki/TI_MSP430)
+   and only partially writing, mainly reading)
+3. Python, Vimscript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can also code (only partially) in Dart, Java, Lua and Typescript.
+
+For documenting stuff, I mainly use LaTeX,
+[dot](https://www.graphviz.org/doc/info/lang.html) and markdown.
+
+# Interests
+I'd declare myself as an low-level enthusiast, due to my interest to ARM CPUs
+and Reverse-Engineering. That's why I'm currently working on [Tornarec](https://github.com/TornaxO7/Tornarec), which should be a NintendoDS emulator (written in Rust).
