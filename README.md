@@ -22,6 +22,6 @@ For documenting stuff, I mainly use LaTeX,
 - Emulator
 
 ## Current projects
-- [Tornarec](https://github.com/TornaxO7/Tornarec) a NDS-Emulator
+- [PornOS](https://github.com/TornaxO7/PornOS)
 
 And otherwise I'm trying to involve myself a little bit in some open-source :)
